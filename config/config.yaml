@@ -61,6 +61,8 @@ platforms:
     name: "财联社热门"
   - id: "ifeng"
     name: "凤凰网"
+  - id: "hackernews"
+    name: "Hacker News"
   - id: "tieba"
     name: "贴吧"
   - id: "weibo"
